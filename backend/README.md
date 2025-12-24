@@ -1,1 +1,33 @@
-IyBCYWNrZW5kXG5cblRoaXMgZGlyZWN0b3J5IGNvbnRhaW5zIGFsbCBiYWNrZW5kIGNvZGUgYW5kIGNvbmZpZ3VyYXRpb24uXG5cbiMjIFN0cnVjdHVyZVxuXG4tIGBzdXBhYmFzZS9gIC0gU3VwYWJhc2UgZGF0YWJhc2UgbWlncmF0aW9ucywgZnVuY3Rpb25zLCBzZWVkIGRhdGFcbi0gYG44bi13b3JrZmxvd3MvYCAtIG44biB3b3JrZmxvd3MgZm9yIGF1dG9tYXRpb25cbi0gYHNjcmlwdHMvYCAtIFV0aWxpdHkgc2NyaXB0cyBmb3IgYmFja2VuZCBtYW5hZ2VtZW50
+# Dossier Backend
+
+Ce dossier contient tous les services backend : Supabase et n8n.
+
+## Structure
+
+```
+backend/
+├── supabase/
+│   ├── migrations/     # Migrations de schéma SQL
+│   ├── functions/      # Edge Functions Supabase
+│   └── seed.sql        # Données initiales
+└── n8n-workflows/
+    ├── analytics.json  # Workflow analytics
+    └── events.json     # Workflow events
+```
+
+## Supabase Setup
+
+```bash
+cd backend/supabase
+supabase init
+supabase db push
+```
+
+## Configuration
+
+Variables d'environnement requises :
+- `SUPABASE_URL`
+- `SUPABASE_ANON_KEY`
+- `SUPABASE_SERVICE_ROLE_KEY`
+
+Voir [docs/SETUP.md](../docs/SETUP.md) pour détails.
