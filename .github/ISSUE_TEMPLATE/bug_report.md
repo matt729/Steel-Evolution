@@ -1,2 +1,62 @@
-LS0tCm5hbWU6IEJ1ZyBSZXBvcnQKYWJvdXQ6IFJlcG9ydCBhIGJ1ZyBpbiBTdGVlbCBFdm9sdXRpb24KdGl0bGU6ICdbQlVHXSAnCmxhYmVsczogYnVnLCBuZWVkcy10cmlhZ2UKYXNzaWduZWVzOiAnJwotLS0KCiMjIEJ1ZyBEZXNjcmlwdGlvbgpDbGVhciBkZXNjcmlwdGlvbiBvZiB0aGUgYnVnLgoKIyMgU3RlcHMgdG8gUmVwcm9kdWNlCjEuIExhdW5jaCBnYW1lCjIuIE5hdmlnYXRlIHRvLi4uCjMuIENsaWNrIG9uLi4uCjQuIEJ1ZyBvY2N1cnMKCiMjIEV4cGVjdGVkIEJlaGF2aW9yClxuV2hhdCBzaG91bGQgaGFwcGVuLgoKIyMgQWN0dWFsIEJlaGF2aW9yClxuV2hhdCBhY3R1YWxseSBoYXBwZW5zLgoKIyMgRW52aXJvbm1lbnQKLSAqKlBsYXRmb3JtOioqIEFuZHJvaWQgLyBpT1MKLSAK'
-**RGV2aWNlOioqIFNhbXN1bmcgR2FsYXh5IFMyMSAvIGlQaG9uZSAxMwotICoqT1MgVmVyc2lvbjoqKiBBbmRyb2lkIDEzIC8gaU9TIDE2Ci0gKipHYW1lIFZlcnNpb246KiogdjAuMS4wCi0gKipCdWlsZDoqKiBEZWJ1ZyAvIFJlbGVhc2UKCiMjIFNjcmVlbnNob3RzL0xvZ3MKQXR0YWNoIHNjcmVlbnNob3RzIG9yIGxvZ3MgaWYgYXZhaWxhYmxlLgoKIyMgQWRkaXRpb25hbCBDb250ZXh0CkFueSBvdGhlciByZWxldmFudCBpbmZvcm1hdGlvbi4KCiMjIFNldmVyaXR5Ci0gWyBdIENyaXRpY2FsIChnYW1lLWJyZWFraW5nKQotIFsgXSBIaWdoIChtYWpvciBmZWF0dXJlIGJyb2tlbikKLSBbIF0gTWVkaXVtIChhbm5veWluZyBidXQgd29ya2Fyb3VuZCBleGlzdHMpCi0gWyBdIExvdyAoY29zbWV0aWMgb3IgbWlub3Ip
+---
+name: Bug Report
+about: Signaler un bug dans Steel Evolution
+title: '[BUG] '
+labels: bug, needs-triage
+assignees: ''
+---
+
+## 🐛 Description du Bug
+
+Description claire et concise du bug.
+
+## 📋 Étapes pour Reproduire
+
+1. Lancer le jeu
+2. Naviguer vers '...'
+3. Cliquer sur '...'
+4. Le bug se produit
+
+## ✅ Comportement Attendu
+
+Ce qui devrait se passer normalement.
+
+## ❌ Comportement Actuel
+
+Ce qui se passe réellement (le bug).
+
+## 📱 Environnement
+
+- **Plateforme:** Android / iOS
+- **Appareil:** Samsung Galaxy S21 / iPhone 13 / Autre
+- **Version OS:** Android 13 / iOS 16
+- **Version du Jeu:** v0.1.0
+- **Build:** Debug / Release
+
+## 📸 Captures d'écran / Vidéos
+
+Si possible, ajouter des captures d'écran ou vidéos du bug.
+
+## 📝 Logs / Messages d'erreur
+
+```
+Coller les logs ici si disponibles
+```
+
+## 🔍 Contexte Additionnel
+
+Toute autre information pertinente (quand ça a commencé, fréquence, etc.).
+
+## ⚠️ Sévérité
+
+- [ ] **Critique** - Jeu injouable, crash systématique
+- [ ] **Haute** - Feature majeure cassée, impact important
+- [ ] **Moyenne** - Bug gênant mais contournable
+- [ ] **Basse** - Problème cosmétique ou mineur
+
+## 🔄 Reproductibilité
+
+- [ ] Toujours (100%)
+- [ ] Souvent (>50%)
+- [ ] Parfois (<50%)
+- [ ] Rare (une fois)
