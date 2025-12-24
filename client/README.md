@@ -1,1 +1,36 @@
-IyBDbGllbnQgKEdhbWUpXG5cblRoaXMgZGlyZWN0b3J5IGNvbnRhaW5zIHRoZSBnYW1lIGNsaWVudCBjb2RlLlxuXG4jIyBTdHJ1Y3R1cmVcblxuLSBgQXNzZXRzL2AgLSBVbml0eSBhc3NldHMgKHNjcmlwdHMsIHByZWZhYnMsIHNwcml0ZXMsIGV0Yy4pXG4tIGBsaWIvYCAtIEZsdXR0ZXIgc291cmNlIGNvZGVcbi0gYFByb2plY3RTZXR0aW5ncy9gIC0gVW5pdHkgcHJvamVjdCBzZXR0aW5ncw==
+# Dossier Client
+
+Ce dossier contient le code client du jeu (Unity ou Flutter).
+
+## Structure
+
+### Option A : Unity
+
+```
+client/
+└── Unity/
+    ├── Assets/
+    │   ├── Scripts/
+    │   ├── Prefabs/
+    │   ├── Sprites/
+    │   ├── Audio/
+    │   └── Resources/
+    └── ProjectSettings/
+```
+
+### Option B : Flutter
+
+```
+client/
+└── flutter/
+    ├── lib/
+    │   ├── game/
+    │   ├── screens/
+    │   ├── widgets/
+    │   └── services/
+    └── assets/
+```
+
+## Setup
+
+Voir [docs/SETUP.md](../docs/SETUP.md) pour instructions complètes.
