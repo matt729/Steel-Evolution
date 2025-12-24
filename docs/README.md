@@ -1,1 +1,45 @@
-IyBEb2N1bWVudGF0aW9uXG5cblRoaXMgZGlyZWN0b3J5IGNvbnRhaW5zIGFsbCBwcm9qZWN0IGRvY3VtZW50YXRpb24uXG5cbiMjIEF2YWlsYWJsZSBEb2N1bWVudHNcblxuLSBbR0RELm1kXShHREQubWQpIC0gR2FtZSBEZXNpZ24gRG9jdW1lbnRcbi0gW1RSRC5tZF0oVFJELm1kKSAtIFRlY2huaWNhbCBSZXF1aXJlbWVudHMgRG9jdW1lbnRcbi0gW0FQSS5tZF0oQVBJLm1kKSAtIEFQSSBEb2N1bWVudGF0aW9uXG4tIFtTRVRVUC5tZF0oU0VUVVAubWQpIC0gU2V0dXAgR3VpZGVcbi0gW0NIQU5HRUxPRy5tZF0oQ0hBTkdFTE9HLm1kKSAtIENoYW5nZSBMb2c=
+# Documentation - Steel Evolution
+
+Ce dossier contient toute la documentation du projet.
+
+## Documents Disponibles
+
+- **[GDD.md](GDD.md)** - Game Design Document complet
+- **[TRD.md](TRD.md)** - Technical Requirements Document
+- **[API.md](API.md)** - Documentation API Supabase
+- **[SETUP.md](SETUP.md)** - Guide d'installation et setup
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Architecture technique détaillée
+
+## Navigation Rapide
+
+### Pour Game Designers
+- [GDD - Vision & Core Pillars](GDD.md#vision)
+- [GDD - Gameplay Loop](GDD.md#core-gameplay-loop)
+- [GDD - Évolutions](GDD.md#5-stades-evolution)
+- [GDD - Monétisation](GDD.md#monetisation)
+
+### Pour Développeurs
+- [TRD - Architecture](TRD.md#architecture)
+- [TRD - Backend Schema](TRD.md#database-schema)
+- [TRD - CI/CD](TRD.md#cicd)
+- [API - Endpoints](API.md)
+
+### Pour Nouveaux Contributeurs
+- [SETUP - Installation](SETUP.md)
+- [CONTRIBUTING](../CONTRIBUTING.md)
+- [Architecture Overview](ARCHITECTURE.md)
+
+## Mise à Jour
+
+La documentation doit être mise à jour à chaque changement significatif :
+- Nouvelles features → Update GDD
+- Changements architecture → Update TRD
+- Nouveaux endpoints → Update API.md
+
+## Format
+
+Tous les documents sont en **Markdown** pour faciliter :
+- Versioning avec Git
+- Lecture sur GitHub
+- Édition collaborative
+- Export vers autres formats
