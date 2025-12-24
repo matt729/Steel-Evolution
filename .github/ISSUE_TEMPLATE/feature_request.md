@@ -1,1 +1,84 @@
-LS0tCm5hbWU6IEZlYXR1cmUgUmVxdWVzdAphYm91dDogU3VnZ2VzdCBhIGZlYXR1cmUgZm9yIFN0ZWVsIEV2b2x1dGlvbgp0aXRsZTogJ1tGRUFUVVJFXSAnCmxhYmVsczogZW5oYW5jZW1lbnQsIG5lZWRzLXJldmlldwphc3NpZ25lZXM6ICcnCi0tLQoKIyMgRmVhdHVyZSBEZXNjcmlwdGlvbgpDbGVhciBkZXNjcmlwdGlvbiBvZiB0aGUgcmVxdWVzdGVkIGZlYXR1cmUuCgojIyBQcm9ibGVtIGl0IFNvbHZlcwpXaGF0IHBsYXllciBwYWluIHBvaW50IGRvZXMgdGhpcyBhZGRyZXNzPwoKIyMgUHJvcG9zZWQgU29sdXRpb24KSG93IHdvdWxkIHRoaXMgZmVhdHVyZSB3b3JrPwoKIyMgQWx0ZXJuYXRpdmUgU29sdXRpb25zCk90aGVyIHdheXMgdG8gc29sdmUgdGhpcyBwcm9ibGVtLgoKIyMgSW1wYWN0Ci0gKipQbGF5ZXIgRW5nYWdlbWVudDoqKiBIaWdoIC8gTWVkaXVtIC8gTG93Ci0gKipSZXRlbnRpb246KiogSGlnaCAvIE1lZGl1bSAvIExvdwotICoqTW9uZXRpemF0aW9uOioqIEhpZ2ggLyBNZWRpdW0gLyBMb3cKCiMjIEVmZm9ydCBFc3RpbWF0ZQotIFsgXSBYUyAoMS0yIGRheXMpCi0gWyBdIFMgKDMtNSBkYXlzKQotIFsgXSBNICgxLTIgd2Vla3MpCi0gWyBdIEwgKDItNCB3ZWVrcykKLSBbIF0gWEwgKDErIG1vbnRoKQoKIyMgUHJpb3JpdHkKLSBbIF0gQ3JpdGljYWwgKE1WUCBibG9ja2VyKQotIFsgXSBIaWdoIChuZWVkZWQgZm9yIGxhdW5jaCkKLSBbIF0gTWVkaXVtIChuaWNlIHRvIGhhdmUpCi0gWyBdIExvdyAoZnV0dXJlIGNvbnNpZGVyYXRpb24pCgojIyBEZXBlbmRlbmNpZXMKTGlzdCBhbnkgZmVhdHVyZXMgdGhpcyBkZXBlbmRzIG9uLgoKIyMgTW9ja3Vwcy9FeGFtcGxlcwpBdHRhY2ggbW9ja3Vwcywgd2lyZWZyYW1lcywgb3IgZXhhbXBsZXMgZnJvbSBvdGhlciBnYW1lcy4=
+---
+name: Feature Request
+about: Proposer une nouvelle fonctionnalité pour Steel Evolution
+title: '[FEATURE] '
+labels: enhancement, needs-review
+assignees: ''
+---
+
+## 💡 Description de la Fonctionnalité
+
+Description claire de la fonctionnalité proposée.
+
+## 🎯 Problème Résolu
+
+Quel problème ou pain point cette fonctionnalité adresse-t-elle ?
+Exemple : "Les joueurs ont du mal à gérer leur inventaire quand..."
+
+## 🛠️ Solution Proposée
+
+Comment cette fonctionnalité fonctionnerait-elle ?
+Soyez aussi détaillé que possible.
+
+## 🔄 Solutions Alternatives
+
+Y a-t-il d'autres façons de résoudre ce problème ?
+
+## 📊 Impact Estimé
+
+**Sur l'Engagement Joueur:**
+- [ ] Très Élevé - Feature game-changer
+- [ ] Élevé - Amélioration significative
+- [ ] Moyen - Nice to have
+- [ ] Faible - Amélioration mineure
+
+**Sur la Rétention:**
+- [ ] Très Élevé
+- [ ] Élevé
+- [ ] Moyen
+- [ ] Faible
+
+**Sur la Monétisation:**
+- [ ] Très Élevé
+- [ ] Élevé
+- [ ] Moyen
+- [ ] Faible
+- [ ] Aucun
+
+## ⏱️ Estimation d'Effort
+
+- [ ] **XS** - 1-2 jours
+- [ ] **S** - 3-5 jours
+- [ ] **M** - 1-2 semaines
+- [ ] **L** - 2-4 semaines
+- [ ] **XL** - 1 mois ou plus
+
+## 🎯 Priorité
+
+- [ ] **Critical** - Bloquant pour MVP
+- [ ] **High** - Nécessaire pour le launch
+- [ ] **Medium** - Nice to have
+- [ ] **Low** - Considération future
+
+## 🔗 Dépendances
+
+Liste des features ou systèmes dont celle-ci dépend.
+Exemple : "Dépend de #42 (Fusion System)"
+
+## 🎨 Mockups / Exemples
+
+Ajouter des mockups, wireframes, ou exemples d'autres jeux si pertinent.
+
+## 🎮 Référence Game Design
+
+Cette feature affecte-t-elle :
+- [ ] Core Loop
+- [ ] Progression
+- [ ] Monétisation
+- [ ] Social
+- [ ] Live Ops
+- [ ] Autre
+
+## 📝 Notes Additionnelles
+
+Toute autre information pertinente.
